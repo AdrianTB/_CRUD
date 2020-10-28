@@ -1,0 +1,4 @@
+composer require laravel/ui --dev
+php artisan ui vue --auth
+npm i
+npm run dev
